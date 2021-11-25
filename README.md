@@ -22,13 +22,15 @@
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?logo=redux&logoColor=white)
 ![Expo](https://img.shields.io/badge/expo-1C1E24?logo=expo&logoColor=#D04A37)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?logo=inkscape&logoColor=080A13)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
-
-
+![VBA](https://img.shields.io/badge/VBA-darkgreen)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 
 <!--
