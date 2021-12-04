@@ -1,4 +1,5 @@
 ## Hi there, I'm Ruben 👋
+![Github profile counter](https://komarev.com/ghpvc/?username=Rubinjo&style=flat-square&labelColor=blue&color=FAC151)
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-Profile-blue.svg?style=flat-square&logo=LinkedIn&labelColor=blue&color=dimgray)](https://www.linkedin.com/in/ruben-lucas-5379b121b/)
 
 - 🎓 I'm studying for a master’s degree in Computer Science
@@ -10,6 +11,7 @@
 ## 🖥️ Languages & Tools
 ![Python](https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?logo=anaconda&logoColor=white)
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?logo=jupyter&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?logo=html5&logoColor=white)
@@ -30,6 +32,7 @@
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-darkgreen)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 
