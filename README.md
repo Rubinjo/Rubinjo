@@ -1,9 +1,8 @@
 ## Hi there, I'm Ruben 👋
 ![Github profile counter](https://komarev.com/ghpvc/?username=Rubinjo&style=flat-square&labelColor=blue&color=FAC151)
-[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-Profile-blue.svg?style=flat-square&logo=LinkedIn&labelColor=blue&color=dimgray)](https://www.linkedin.com/in/ruben-lucas-5379b121b/)
+[![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-Profile-blue.svg?style=flat-square&logo=LinkedIn&labelColor=blue&color=dimgray)](https://www.linkedin.com/in/ruben-h-lucas/)
 
-- 🎓 I'm studying for a master’s degree in Computer Science
-- 🌱 I’m currently learning Next.js and Typescript
+- 🎓 I'm studying for the TensorFlow Developer Certificate
 
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubinjo&theme=tokyonight)](https://github.com/Rubinjo/github-readme-stats)
