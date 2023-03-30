@@ -2,8 +2,6 @@
 ![Github profile counter](https://komarev.com/ghpvc/?username=Rubinjo&style=flat-square&labelColor=blue&color=FAC151)
 [![LinkedIn Shield](https://img.shields.io/badge/LinkedIn-Profile-blue.svg?style=flat-square&logo=LinkedIn&labelColor=blue&color=dimgray)](https://www.linkedin.com/in/ruben-h-lucas/)
 
-- 🎓 I'm studying for the TensorFlow Developer Certificate
-
 ## 📈 Github Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rubinjo&theme=tokyonight)](https://github.com/Rubinjo/github-readme-stats)
 
@@ -15,7 +13,6 @@
 ![Pandas](https://img.shields.io/badge/Pandas-2C2D72?logo=pandas&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?logo=TensorFlow&logoColor=white)
 ![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=PyTorch&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=java&logoColor=white)
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css-%231572B6.svg?logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white)
@@ -28,13 +25,11 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?logo=firebase)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?logo=latex&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?logo=Adobe%20XD&logoColor=#FF61F6)
 ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?logo=inkscape&logoColor=080A13)
 ![Gimp](https://img.shields.io/badge/Gimp-657D8B?logo=gimp&logoColor=FFFFFF)
 ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?logo=microsoft-office&logoColor=white)
 ![VBA](https://img.shields.io/badge/VBA-darkgreen)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white)
 
 
