@@ -2,11 +2,6 @@
   <img src="assets/header.svg" alt="Ruben Lucas · AI Engineer · Data Science · Cloud Engineering" width="100%" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ruben-h-lucas/">LinkedIn</a> ·
-  <a href="https://github.com/Rubinjo?tab=repositories">Projects</a>
-</p>
-
 ## Hi, I'm Ruben 👋
 
 I have 4+ years of experience designing, developing, and deploying production AI and data-driven solutions across enterprise environments. I turn complex business requirements into reliable technical solutions, working across the full lifecycle. Data ingestion, model and application development, deployment, CI/CD, and platform operations.
